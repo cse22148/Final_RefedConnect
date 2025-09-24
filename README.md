@@ -1,31 +1,14 @@
-# RefedConnect - Food Sharing Platform
+ 🌐 RefedConnect – Food Sharing Platform
 
-*A comprehensive platform connecting food donors with NGOs and biogas agents*
+Live Demo: final-refed-connect.vercel.app
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/cse22148-1595s-projects/v0-project-refed-connect)
+GitHub Repo: RefedConnect Source
 
-## Overview
+📌 Overview
 
-RefedConnect is a food sharing platform that connects:
-- **Donors**: Share excess food with those in need
-- **NGO Agents**: Manage food distribution to communities  
-- **Biogas Agents**: Convert organic waste into renewable energy
+RefedConnect is a comprehensive food-sharing platform designed to bridge the gap between donors, NGO agents, and biogas agents. It ensures excess food is redistributed effectively or converted into renewable energy.
 
-## Features
-
-- Real-time GPS tracking and navigation
-- Google OAuth authentication
-- Role-based dashboards
-- Interactive maps with directions
-- Food donation management
-- Waste collection scheduling
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/cse22148-1595s-projects/v0-project-refed-connect](https://vercel.com/cse22148-1595s-projects/v0-project-refed-connect)**
-
+🚀 Features
 ## Getting Started
 
 1. Clone this repository
